@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomDialog</string>
+    <string name="showDefaultDialog">Show default Dialog</string>
+    <string name="showCustomDialog">Show custom Dialog</string>
+    <string name="titleCustomDialog">Hi! \n This is a custom dialog!</string>
+    <string name="titleDefaultDialog">Hi, this is a default dialog!</string>
+    <string name="ok">OK</string>
+</resources>
